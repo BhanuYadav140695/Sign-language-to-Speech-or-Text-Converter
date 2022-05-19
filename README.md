@@ -11,8 +11,7 @@ people and the deaf community can be minimized.
 
 ## Motivation : 
   What coulde be the perfect way to utilize the unfortunate lockdown? Like most of pepole use this period to do many thinks that they likes that is they learn new skills , watching videos ,series on netflix or amazon prime . I Use this period to learn new skill and by learning new skill develop one project that solve the real world problem. While searching such project I saw one project topic on the website that name is sign language to text or speech converter.
-  
-    When i read the prolem statement of this topic then i decited that i have to work on this project because it solves the real world problem for deaf people. It provide the way to communicate with normal pepole.
+  \n When i read the prolem statement of this topic then i decited that i have to work on this project because it solves the real world problem for deaf people. It provide the way to communicate with normal pepole.
 
 
 
